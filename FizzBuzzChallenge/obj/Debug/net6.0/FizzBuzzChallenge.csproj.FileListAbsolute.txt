@@ -1,0 +1,15 @@
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.exe
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.deps.json
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.dll
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net6.0\FizzBuzzChallenge.pdb
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.AssemblyReference.cache
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.dll
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\refint\FizzBuzzChallenge.dll
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.pdb
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.genruntimeconfig.cache
+C:\Users\rufio\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\ref\FizzBuzzChallenge.dll
